@@ -10,7 +10,7 @@
   align-items: center;
   height: 100vh;
   width: 100vw;
-  background-image: url(" link");
+  background-image: url("https://images.pexels.com/photos/2406395/pexels-photo-2406395.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
   background-size: cover;
 }
 
@@ -23,4 +23,9 @@ button {
   border: none;
   padding: 5px;
   border-radius: 5px;
+}
+p {
+  font-family: cursive;
+  font-size: 400%;
+  color: aquamarine;
 }
